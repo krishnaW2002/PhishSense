@@ -1,0 +1,15 @@
+pandas==2.2.2
+scikit-learn==1.4.1
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# GUI (optional - only needed for Tkinter GUI)
+# Tkinter is usually included by default with Python, but just in case:
+tk
+
+# Web (Flask App - optional)
+flask==3.0.2
+
+# Jupyter/Colab (optional, helpful for dev notebooks)
+jupyter
